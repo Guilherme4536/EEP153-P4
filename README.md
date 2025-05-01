@@ -1,1 +1,2 @@
 # EEP153-P4
+This project analyzes nutritional adequacy across Ethiopia, with a specific focus on addressing calcium deficiency, a critical public health issue linked to malnutrition, stunted growth, and complications during pregnancy. Our analysis examines both the national population and three key regions: Tigray, Oromia, and Amhara. We evaluate and model three policy interventions aimed at reducing calcium deficiency and assess their cost-effectiveness to inform data-driven decision-making. 
