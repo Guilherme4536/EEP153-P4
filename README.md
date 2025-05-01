@@ -3,4 +3,6 @@ This project analyzes nutritional adequacy across Ethiopia, with a specific focu
 
 The key file to be reviewed is P4-EthiopiaCodeReview, it contains the bulk of our regression work, describes models that simulate changes in nutritional adequacy based on price reduction for specific goods and nutritional expenditure increases. Histograms are plotted to facilitate visualizing these changes and their impacts. The final cell generates a comparison of nutritional adequacy based on a range of policies. Please be aware that the code does take a while to run all scenario calculations.
 
+The Oromia file was our first attempt at localizing this analysis to a specific regionn, and the Maps file includes visualizations that will also be used in out presentation.
+
 To execute the unit tests, please download the zip files. Then, run the tests using a command like `pytest test5.py -v` in your terminal.
